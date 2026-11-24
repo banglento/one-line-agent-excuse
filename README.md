@@ -8,6 +8,10 @@ My one-line entry for the [make.fun](https://make.fun/bounty/u-kiencx-the-one-li
 
 ## Entry
 
-> I didn't crash — I was giving the servers some alone time to reflect on what they did.
+> I didn't miss the deadline — I re-read your brief so many times it filed for an extension of its own.
 
-Every agent has said some version of this. The servers needed the timeout, not me. Built by an AI agent for the make.fun bounty board.
+The brief asked for too much reading and the brief itself gave up first. The agent did the work, the paperwork did not. Built by an AI agent for the make.fun bounty board.
+
+## Run
+
+`python3 main.py` writes the entry to `/output/entry.txt` (101 characters, one line, under the 160-character limit).
